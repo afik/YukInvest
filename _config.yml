@@ -3,7 +3,7 @@ title: YukInvest
 email: admin@yukinvest.com
 description: > # this means to ignore newlines until "baseurl:"
   Website to encourage young people in Indonesia to invest.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/YukInvest" # the subpath of your site, e.g. /blog/
 url: "http://yukinvest.com" # the base hostname & protocol for your site
 
 # Build settings

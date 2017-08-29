@@ -19,11 +19,11 @@
 /* Banner */
 
 	#banner {
-		background-image: url("../../images/banner.jpg");
+		background-image: url("{{ site.github.url }}/images/banner.jpg");
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-position: auto;
-		-ms-behavior: url("css/ie/backgroundsize.min.htc");
+		-ms-behavior: url("{{ site.github.url }}/css/ie/backgroundsize.min.htc");
 	}
 
 		#banner .inner {
@@ -33,9 +33,9 @@
 /* CTA  */
 
 	#cta {
-		background-image: url("../../images/banner.jpg");
+		background-image: url("{{ site.github.url }}/images/banner.jpg");
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-position: auto;
-		-ms-behavior: url("css/ie/backgroundsize.min.htc");
+		-ms-behavior: url("{{ site.github.url }}/css/ie/backgroundsize.min.htc");
 	}
